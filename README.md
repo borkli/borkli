@@ -1,4 +1,10 @@
-## Hi there 👋
+## 📊 Statistics
+
+<div>
+ <a href="https://language-stats-borkli.vercel.app"><img style="height: 160px; max-width: 100%;" src="https://language-stats-borkli.vercel.app/api?username=borkli&show_icons=true&theme=shadow_green&hide=contribs,followers,issues&include_all_commits=true&count_private=true"></a>
+ <a href="https://language-stats-borkli.vercel.app"><img style="height: 160px; max-width: 100%;" src="https://language-stats-borkli.vercel.app/api/top-langs/?username=borkli&theme=shadow_green&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5"></a>
+</div>
+
 
 <!--
 **borkli/borkli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
