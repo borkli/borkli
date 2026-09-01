@@ -1,9 +1,13 @@
 ## 📊 Statistics
 
-<div>
- <a href="https://language-stats-borkli.vercel.app"><img style="height: 160px; max-width: 100%;" src="https://language-stats-borkli.vercel.app/api?username=borkli&show_icons=true&theme=shadow_green&hide=contribs,followers,issues&include_all_commits=true&count_private=true"></a>
- <a href="https://language-stats-borkli.vercel.app"><img style="height: 160px; max-width: 100%;" src="https://language-stats-borkli.vercel.app/api/top-langs/?username=borkli&theme=shadow_green&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5"></a>
-</div>
+<p align="center">
+  <a href="https://language-stats-borkli.vercel.app">
+    <img height="160" alt="borkli's GitHub statistics" src="https://language-stats-borkli.vercel.app/api?username=borkli&amp;show_icons=true&amp;theme=shadow_green&amp;hide=contribs,followers,issues&amp;include_all_commits=true&amp;count_private=true&amp;cache_seconds=86400&amp;v=20260901">
+  </a>
+  <a href="https://language-stats-borkli.vercel.app">
+    <img height="160" alt="borkli's most used languages" src="https://language-stats-borkli.vercel.app/api/top-langs/?username=borkli&amp;theme=shadow_green&amp;layout=compact&amp;langs_count=6&amp;size_weight=0.5&amp;count_weight=0.5&amp;cache_seconds=86400&amp;v=20260901">
+  </a>
+</p>
 
 
 <!--
