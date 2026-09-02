@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://language-stats-borkli.vercel.app">
-    <img height="160" alt="borkli's GitHub statistics" src="https://language-stats-borkli.vercel.app/api?username=borkli&amp;show_icons=true&amp;theme=shadow_green&amp;hide=contribs,followers,issues&amp;include_all_commits=true&amp;count_private=true&amp;cache_seconds=86400&amp;v=20260901">
+    <img height="165" alt="borkli's GitHub statistics" src="https://language-stats-borkli.vercel.app/api?username=borkli&amp;show_icons=true&amp;theme=shadow_green&amp;hide=contribs,followers,issues&amp;include_all_commits=true&amp;count_private=true&amp;line_height=30&amp;cache_seconds=86400&amp;v=20260902">
   </a>
   <a href="https://language-stats-borkli.vercel.app">
-    <img height="160" alt="borkli's most used languages" src="https://language-stats-borkli.vercel.app/api/top-langs/?username=borkli&amp;theme=shadow_green&amp;layout=compact&amp;langs_count=6&amp;size_weight=0.5&amp;count_weight=0.5&amp;cache_seconds=86400&amp;v=20260901">
+    <img height="165" alt="borkli's most used languages" src="https://language-stats-borkli.vercel.app/api/top-langs/?username=borkli&amp;theme=shadow_green&amp;layout=compact&amp;langs_count=6&amp;size_weight=0.5&amp;count_weight=0.5&amp;cache_seconds=86400&amp;v=20260902">
   </a>
 </p>
 
